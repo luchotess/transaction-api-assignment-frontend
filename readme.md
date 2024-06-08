@@ -5,6 +5,9 @@
 Welcome to the Transaction Assignment Frontend repository. 
 This project is a React application designed to provide a modern and scalable frontend solution. It utilizes several powerful libraries and frameworks to ensure efficient development and maintainability.
 
+Demo: https://transaction-dashboard-assignment-frontend.vercel.app/
+Backend: https://github.com/luchotess/transaction-api-assignment
+
 ### Key Features:
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
